@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1cf878b-5073-4859-93b8-275808aa8c85" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/web_manager/src/assets/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_manager/src/components/view/Brand.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_manager/src/components/view/Comments.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_manager/src/components/view/CommentsDetail.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_manager/src/components/view/Content.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_manager/src/components/view/Content_category.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_manager/src/components/view/Goods.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_manager/src/components/view/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_manager/src/components/view/Index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_manager/src/components/view/Item_cat.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_manager/src/components/view/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_manager/src/components/view/Seller.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_manager/src/components/view/Seller_auditing.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_manager/src/components/view/Specification.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_manager/src/components/view/Type_template.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_manager/src/plugins/element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_manager/src/router/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_manager/src/util/APIUtil.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_manager/src/util/StorageUtil.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/404.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/ad1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/arrow.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/baitiao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/caipiao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/cart1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/cart2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/cartPanelViewIcons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/choosed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/daren1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/daren2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/daren3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/daren4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/daren5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/detailimg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/detailimg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/detailimg3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/detailimg4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/detailimg5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/dianyingpiao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/duihuan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/error.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/erweima.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/fouce1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/fouce2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/fouce3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/fouce4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/gifgoods.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/goods1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/goods10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/goods2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/goods3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/goods4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/goods5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/goods6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/goods7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/goods8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/goods9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/huochepiao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/icon-red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/intro1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/intro2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/intro3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/intro4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/intro5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/jiiayouzhan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/jipiao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/jiudian.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/jx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/licai.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/linker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/lipingka.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/lock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/mod-list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/no_login.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/phone-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/sd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/skill1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/skill2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/skill3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/skill4.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/skill_icon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/tui1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/tui2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/tui3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/tui4.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/tui5.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/weixincode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/assets/img/zhongchou.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/components/Cart.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/components/DetailShop.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/components/Error.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/components/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/components/Index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/components/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/components/Order.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/components/Pay.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/components/PayFail.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/components/PaySuccess.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/components/Search.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/components/common/ErrorSearch.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/components/common/Footer.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/components/common/Header.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/plugins/element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/util/APIUtil.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/util/CookieUtil.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_portal/src/util/StorageUtil.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/anchor/anchor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/attachment/attachment.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/attachment/attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/attachment/attachment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/attachment/fileTypeImages/icon_chm.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/attachment/fileTypeImages/icon_default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/attachment/fileTypeImages/icon_doc.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/attachment/fileTypeImages/icon_exe.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/attachment/fileTypeImages/icon_jpg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/attachment/fileTypeImages/icon_mp3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/attachment/fileTypeImages/icon_mv.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/attachment/fileTypeImages/icon_pdf.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/attachment/fileTypeImages/icon_ppt.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/attachment/fileTypeImages/icon_psd.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/attachment/fileTypeImages/icon_rar.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/attachment/fileTypeImages/icon_txt.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/attachment/fileTypeImages/icon_xls.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/attachment/images/alignicon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/attachment/images/alignicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/attachment/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/attachment/images/file-icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/attachment/images/file-icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/attachment/images/icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/attachment/images/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/attachment/images/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/attachment/images/progress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/attachment/images/success.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/attachment/images/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/background/background.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/background/background.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/background/background.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/background/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/background/images/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/charts/chart.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/charts/charts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/charts/charts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/charts/charts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/charts/images/charts0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/charts/images/charts1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/charts/images/charts2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/charts/images/charts3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/charts/images/charts4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/charts/images/charts5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/emotion/emotion.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/emotion/emotion.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/emotion/emotion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/emotion/images/0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/emotion/images/bface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/emotion/images/cface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/emotion/images/fface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/emotion/images/jxface2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/emotion/images/neweditor-tab-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/emotion/images/tface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/emotion/images/wface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/emotion/images/yface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/gmap/gmap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/help/help.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/help/help.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/help/help.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/image/image.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/image/image.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/image/image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/image/images/alignicon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/image/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/image/images/icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/image/images/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/image/images/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/image/images/progress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/image/images/success.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/image/images/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/insertframe/insertframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/internal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/link/link.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/map/map.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/map/show.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/music/music.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/music/music.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/music/music.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/preview/preview.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/scrawl/images/addimg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/scrawl/images/brush.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/scrawl/images/delimg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/scrawl/images/delimgH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/scrawl/images/empty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/scrawl/images/emptyH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/scrawl/images/eraser.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/scrawl/images/redo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/scrawl/images/redoH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/scrawl/images/scale.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/scrawl/images/scaleH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/scrawl/images/size.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/scrawl/images/undo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/scrawl/images/undoH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/scrawl/scrawl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/scrawl/scrawl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/scrawl/scrawl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/searchreplace/searchreplace.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/searchreplace/searchreplace.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/snapscreen/snapscreen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/spechars/spechars.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/spechars/spechars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/table/dragicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/table/edittable.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/table/edittable.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/table/edittable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/table/edittd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/table/edittip.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/template/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/template/images/bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/template/images/pre0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/template/images/pre1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/template/images/pre2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/template/images/pre3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/template/images/pre4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/template/template.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/template/template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/template/template.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/video/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/video/images/center_focus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/video/images/file-icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/video/images/file-icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/video/images/icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/video/images/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/video/images/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/video/images/left_focus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/video/images/none_focus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/video/images/progress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/video/images/right_focus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/video/images/success.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/video/images/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/video/video.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/video/video.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/video/video.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/webapp/webapp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/wordimage/tangram.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/wordimage/wordimage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/dialogs/wordimage/wordimage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/jsp/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/jsp/controller.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/lang/en/en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/lang/en/images/addimage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/lang/en/images/alldeletebtnhoverskin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/lang/en/images/alldeletebtnupskin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/lang/en/images/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/lang/en/images/button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/lang/en/images/copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/lang/en/images/deletedisable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/lang/en/images/deleteenable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/lang/en/images/listbackground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/lang/en/images/localimage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/lang/en/images/music.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/lang/en/images/rotateleftdisable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/lang/en/images/rotateleftenable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/lang/en/images/rotaterightdisable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/lang/en/images/rotaterightenable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/lang/en/images/upload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/lang/zh-cn/images/copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/lang/zh-cn/images/localimage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/lang/zh-cn/images/music.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/lang/zh-cn/images/upload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/lang/zh-cn/zh-cn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/themes/default/css/ueditor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/themes/default/css/ueditor.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/themes/default/dialogbase.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/themes/default/images/anchor.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/themes/default/images/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/themes/default/images/arrow_down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/themes/default/images/arrow_up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/themes/default/images/button-bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/themes/default/images/cancelbutton.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/themes/default/images/charts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/themes/default/images/cursor_h.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/themes/default/images/cursor_h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/themes/default/images/cursor_v.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/themes/default/images/cursor_v.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/themes/default/images/dialog-title-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/themes/default/images/filescan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/themes/default/images/highlighted.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/themes/default/images/icons-all.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/themes/default/images/icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/themes/default/images/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/themes/default/images/loaderror.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/themes/default/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/themes/default/images/lock.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/themes/default/images/neweditor-tab-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/themes/default/images/pagebreak.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/themes/default/images/scale.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/themes/default/images/sortable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/themes/default/images/spacer.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/themes/default/images/sparator_v.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/themes/default/images/table-cell-align.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/themes/default/images/tangram-colorpicker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/themes/default/images/toolbar_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/themes/default/images/unhighlighted.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/themes/default/images/upload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/themes/default/images/videologo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/themes/default/images/word.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/themes/default/images/wordpaste.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/themes/iframe.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/SyntaxHighlighter/shCore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/SyntaxHighlighter/shCoreDefault.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/codemirror/codemirror.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/codemirror/codemirror.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/highcharts/adapters/mootools-adapter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/highcharts/adapters/mootools-adapter.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/highcharts/adapters/prototype-adapter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/highcharts/adapters/prototype-adapter.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/highcharts/adapters/standalone-framework.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/highcharts/adapters/standalone-framework.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/highcharts/highcharts-more.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/highcharts/highcharts-more.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/highcharts/highcharts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/highcharts/highcharts.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/highcharts/modules/annotations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/highcharts/modules/annotations.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/highcharts/modules/canvas-tools.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/highcharts/modules/canvas-tools.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/highcharts/modules/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/highcharts/modules/data.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/highcharts/modules/drilldown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/highcharts/modules/drilldown.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/highcharts/modules/exporting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/highcharts/modules/exporting.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/highcharts/modules/funnel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/highcharts/modules/funnel.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/highcharts/modules/heatmap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/highcharts/modules/heatmap.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/highcharts/modules/map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/highcharts/modules/map.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/highcharts/modules/no-data-to-display.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/highcharts/modules/no-data-to-display.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/highcharts/themes/dark-blue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/highcharts/themes/dark-green.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/highcharts/themes/gray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/highcharts/themes/grid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/highcharts/themes/skies.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/jquery-1.10.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/jquery-1.10.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/jquery-1.10.2.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/snapscreen/UEditorSnapscreen.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/video-js/font/vjs.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/video-js/font/vjs.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/video-js/font/vjs.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/video-js/font/vjs.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/video-js/video-js.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/video-js/video-js.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/video-js/video.dev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/video-js/video.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/webuploader/webuploader.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/webuploader/webuploader.custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/webuploader/webuploader.custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/webuploader/webuploader.flashonly.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/webuploader/webuploader.flashonly.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/webuploader/webuploader.html5only.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/webuploader/webuploader.html5only.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/webuploader/webuploader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/webuploader/webuploader.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/webuploader/webuploader.withoutimage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/webuploader/webuploader.withoutimage.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/xss.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/zeroclipboard/ZeroClipboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/third-party/zeroclipboard/ZeroClipboard.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/ueditor.all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/ueditor.all.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/ueditor.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/ueditor.parse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/public/umedit/ueditor.parse.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/src/assets/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/src/components/Comments.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/src/components/CommentsDetail.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/src/components/Goods.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/src/components/GoodsEdit.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/src/components/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/src/components/Index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/src/components/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/src/components/Order.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/src/components/OrderItem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/src/components/Password.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/src/components/Register.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/src/components/Seller.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/src/router/element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/src/router/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/src/util/APIUtil.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_shop/src/util/StorageUtil.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_user/src/assets/img/404.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_user/src/assets/img/error.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_user/src/assets/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_user/src/assets/img/gifgoods.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_user/src/assets/img/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_user/src/assets/img/loginbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_user/src/assets/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_user/src/assets/img/qq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_user/src/assets/img/sina.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_user/src/assets/img/weixin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_user/src/assets/img/welcome.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_user/src/components/Address.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_user/src/components/Collect.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_user/src/components/CommentsShop.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_user/src/components/Error.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_user/src/components/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_user/src/components/Index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_user/src/components/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_user/src/components/MyComments.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_user/src/components/Order.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_user/src/components/OrderDetail.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_user/src/components/Register.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_user/src/components/SetInfo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_user/src/components/Track.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_user/src/components/common/ErrorSearch.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_user/src/components/common/Footer.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_user/src/components/common/Header.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_user/src/plugins/element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_user/src/util/APIUtil.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_user/src/util/CookieUtil.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_user/src/util/StorageUtil.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_manager/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/web_manager/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_manager/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web_manager/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_manager/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web_manager/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_manager/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/web_manager/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_manager/src/assets/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/web_manager/src/assets/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_manager/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_manager/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/web_manager/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_manager/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_manager/src/views/About.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_manager/src/views/Home.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_portal/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/web_portal/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_portal/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web_portal/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_portal/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/web_portal/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_portal/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/web_portal/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_portal/src/assets/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/web_portal/src/assets/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_portal/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_portal/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/web_portal/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_portal/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/web_portal/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_portal/src/views/About.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_portal/src/views/Home.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_shop/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/web_shop/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_shop/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web_shop/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_shop/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/web_shop/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_shop/src/assets/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/web_shop/src/assets/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_shop/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_shop/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/web_shop/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_shop/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_shop/src/views/About.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_shop/src/views/Home.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_user/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/web_user/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_user/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web_user/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_user/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/web_user/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_user/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/web_user/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_user/src/assets/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/web_user/src/assets/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_user/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_user/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/web_user/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_user/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/web_user/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_user/src/views/About.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_user/src/views/Home.vue" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/web_portal" />
+  </component>
+  <component name="ProjectId" id="1ZnihR5UK7In60jG1faMrgMvl07" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../node" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\html\BY_store_manager\web_user\src\assets\img" />
+      <recent name="D:\html\BY_store_manager\web_user\src\components" />
+      <recent name="D:\html\BY_store_manager\web_portal\public" />
+      <recent name="D:\html\BY_store_manager\web_portal\src\components" />
+      <recent name="D:\html\BY_store_manager\web_portal\src\components\common" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\html\BY_store_manager\web_portal\src\assets\img" />
+      <recent name="D:\html\BY_store_manager\web_shop\src\components" />
+      <recent name="D:\html\BY_store_manager\web_portal\src\assets" />
+      <recent name="D:\html\BY_store_manager\web_portal\src\components" />
+      <recent name="D:\html\BY_store_manager\web_portal\src\util" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/web_shop/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.serve" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\ASUS\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1cf878b-5073-4859-93b8-275808aa8c85" name="Default Changelist" comment="" />
+      <created>1585481377258</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585481377258</updated>
+      <workItem from="1585481378466" duration="12648000" />
+      <workItem from="1585494359631" duration="4447000" />
+      <workItem from="1585540004804" duration="19664000" />
+      <workItem from="1585559788285" duration="6460000" />
+      <workItem from="1585567535182" duration="1111000" />
+      <workItem from="1586572926724" duration="20078000" />
+      <workItem from="1586606916872" duration="4819000" />
+      <workItem from="1586616652589" duration="694000" />
+      <workItem from="1586677943824" duration="15219000" />
+      <workItem from="1586740272529" duration="1712000" />
+      <workItem from="1586747134237" duration="77278000" />
+      <workItem from="1586996074496" duration="17626000" />
+      <workItem from="1587097856233" duration="45653000" />
+      <workItem from="1587285163768" duration="43666000" />
+      <workItem from="1587538952933" duration="139175000" />
+      <workItem from="1587990158480" duration="4991000" />
+      <workItem from="1588035680067" duration="91000" />
+      <workItem from="1588035803770" duration="504000" />
+      <workItem from="1588036323619" duration="1841000" />
+      <workItem from="1588040134600" duration="19294000" />
+      <workItem from="1588068774691" duration="34336000" />
+      <workItem from="1588158828751" duration="3280000" />
+      <workItem from="1588204019329" duration="17484000" />
+      <workItem from="1588249086854" duration="9182000" />
+      <workItem from="1588387503946" duration="1346000" />
+      <workItem from="1588389056772" duration="9615000" />
+      <workItem from="1588738429149" duration="168000" />
+      <workItem from="1588747181746" duration="5717000" />
+      <workItem from="1588858075852" duration="285000" />
+      <workItem from="1588933131148" duration="370000" />
+      <workItem from="1588935516672" duration="435000" />
+      <workItem from="1588941051174" duration="6139000" />
+      <workItem from="1589534492439" duration="623000" />
+      <workItem from="1589535436731" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/web_user/src/components/Register.vue</url>
+          <line>3</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/web_shop/src/components/OrderItem.vue</url>
+          <line>110</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/web_portal/src/components/common/Header.vue</url>
+          <line>3</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/web_user/src/components/CommentsShop.vue</url>
+          <line>68</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
